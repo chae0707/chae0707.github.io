@@ -8,14 +8,13 @@ blog_theme: dark # Or use dark
 
 # Profile information
 name: Jungmin Chae
-tagline: student
-about-description: zzzzzzzzzzzzzzzzzz # Add Discription
+tagline: teamfight tactics master
+about-description: 롤체 김민성보다 훨씬 잘해요 # Add Discription
 pic: 15.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 # Contact links
 email: chaejm77@gmail.com # Add your Email address
 phone: 010 2051 2448 # Add your Phone number
 website: chae0707.github.io # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
 github: chae0707 # Add your Github handle
 
 # Tracker
