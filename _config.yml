@@ -1,19 +1,20 @@
 title: chae0707
 description: > # this means to ignore newlines until "baseurl:"
-  hello
+  반갑습니다
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://chae0707.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: dark # Or use dark
 
 # Profile information
-name: Jungmin Chae
-tagline: teamfight tactics master
-about-description: 롤체 김민성보다 훨씬 잘해요 # Add Discription
+name: 채정민
+tagline: 학생
+about-description: 안녕하십니까 # Add Discription  "Discription": 안녕하세요
 pic: 15.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+
 # Contact links
 email: chaejm77@gmail.com # Add your Email address
-phone: 010 2051 2448 # Add your Phone number
+phone: 010-2051-2448 # Add your Phone number
 website: chae0707.github.io # Add your website, do not add http://
 github: chae0707 # Add your Github handle
 
